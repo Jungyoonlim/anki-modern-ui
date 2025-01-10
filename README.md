@@ -1,15 +1,20 @@
-# Anki
+# Anki Modern License Explorer
 
-[![Build status](https://badge.buildkite.com/c9edf020a4aec976f9835e54751cc5409d843adbb66d043bd3.svg?branch=main)](https://buildkite.com/ankitects/anki-ci)
+A modern, user-friendly frontend interface for exploring Anki's license information. This project adds a clean, responsive UI on top of Anki's existing license data.
 
-This repo contains the source code for the computer version of
-[Anki](https://apps.ankiweb.net).
+## Features
 
-# About
+- Clean and intuitive UI built with Next.js and Tailwind
+- Modern and responsive design 
 
-Anki is a spaced repetition program. Please see the [website](https://apps.ankiweb.net) to learn more.
+## Tech Stack
 
-# Getting Started
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- React
+
+## Getting Started
 
 ### Anki Betas
 
